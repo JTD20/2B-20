@@ -6,4 +6,9 @@ Daftar Hadir JTD 2B-20 - 24-5-22
 08 2041160149 Dhias Dewa Ananta
 16 2041160127 Muhammad Dhorul Aulia Rizky
 19 2041160083 Salwa Nadirah
+<<<<<<< HEAD
 >>>>>>> 0e337d3fdb029be7553a0ac38da524392036b093
+=======
+04 2041160125 Anisya Kirana Hartono
+
+>>>>>>> ed2d984e29487244c0725028f264397fa5bebdd4
