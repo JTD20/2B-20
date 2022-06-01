@@ -3,7 +3,11 @@ Daftar Hadir JTD 2B-20 - 24-5-22
 05 2041160063 Arhisya Putri Damayanti
 08 2041160149 Dhias Dewa Ananta
 13 2041160031 Krisna Murti Rachmadani 
+=======
+>>>>>>> 7345d92cffd77283f69df6492f640877083be473
 14 2041160105 M Hamim Zarkasyi
 16 2041160127 Muhammad Dhorul Aulia Rizky
+08 2041160149 Dhias Dewa Ananta
 19 2041160083 Salwa Nadirah
-
+04 2041160125 Anisya Kirana Hartono
+13 2041160031 Krisna Murti Rachmadani
